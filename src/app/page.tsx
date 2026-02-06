@@ -25,12 +25,12 @@ export default function Main() {
 
           {/* Title */}
           <h1 className="text-5xl font-bold text-white mb-4 tracking-tight">
-            Hello World
+            holaaaaa
           </h1>
 
           {/* Subtitle */}
           <p className="text-xl text-white/80 mb-8 leading-relaxed">
-            Welcome to your new application, built with Next.js and Totalum.
+            bon dia
           </p>
 
           {/* Divider */}
@@ -65,3 +65,4 @@ export default function Main() {
     </div>
   );
 }
+
