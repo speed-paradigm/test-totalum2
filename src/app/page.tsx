@@ -25,7 +25,7 @@ export default function Main() {
 
           {/* Title */}
           <h1 className="text-5xl font-bold text-white mb-4 tracking-tight">
-            adeeeeeeeeeeeeeeeeeeeeeuuuuuuuuuuuuuuuuu
+            adde
           </h1>
 
           {/* Subtitle */}
