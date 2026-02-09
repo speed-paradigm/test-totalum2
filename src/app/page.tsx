@@ -10,7 +10,7 @@ export default function Main() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-yellow-300 via-yellow-500 to-amber-600 flex items-center justify-center p-6">
+    <div className="min-h-screen bg-gradient-to-br from-red-400 via-red-600 to-red-900 flex items-center justify-center p-6">
       <div
         className={`text-center transition-all duration-1000 ${
           mounted ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
@@ -25,7 +25,7 @@ export default function Main() {
 
           {/* Title */}
           <h1 className="text-5xl font-bold text-white mb-4 tracking-tight">
-            holaaaaa
+            adde
           </h1>
 
           {/* Subtitle */}
