@@ -59,7 +59,7 @@ export default function HomePage() {
             Bienvenido a tu
             <br />
             <span className="bg-gradient-to-r from-yellow-500 via-amber-500 to-orange-500 bg-clip-text text-transparent">
-              plataforma
+              plataforma preferida
             </span>
           </h1>
 
