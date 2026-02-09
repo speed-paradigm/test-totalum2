@@ -59,7 +59,7 @@ export default function HomePage() {
             Bienvenido a tu
             <br />
             <span className="bg-gradient-to-r from-indigo-400 via-purple-400 to-emerald-400 bg-clip-text text-transparent">
-              aplicacion
+              OOOOOOOOO
             </span>
           </h1>
 
