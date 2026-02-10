@@ -52,7 +52,7 @@ export default function HomePage() {
         <div className={`max-w-3xl transition-all duration-1000 delay-200 ${mounted ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-green-100 border border-green-300/50 text-sm text-emerald-700 mb-8">
             <span className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
-            Plataforma activa
+            Plataforma super activa
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight leading-[1.1] mb-6 text-gray-900">
